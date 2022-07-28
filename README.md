@@ -40,7 +40,7 @@ This theme supports 5 page templates:
 - Each of the above templates can be mapped to a page through WP admin
 
 ## Screenshot
-Below is the screenshot of Home Page
+Below is the screenshot of Home Page. You can access the site [here](https://tinyurl.com/bdh429y2).
 
 <img alt="Home Page" src="images/home.png">
 
